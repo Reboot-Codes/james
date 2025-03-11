@@ -1,3 +1,5 @@
+![JAMES logo.](./james.svg)
+
 # J.A.M.E.S.
 
 Just Another Multifunctional and Extendable System.
